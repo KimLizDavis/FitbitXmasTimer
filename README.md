@@ -1,5 +1,6 @@
-# FitbitXmasTimer
-Code for my Fitbit app: Countdown to Christmas.
+# Count Down to Christmas Fitbit App.
+
+Code for my Fitbit app: Xmas Timer.
 
 This is my first Fitbit app. It displays the number of days counting down until next Christmas. On Christmas day, it will display a festive message! The code is written in JavaScript, and is available in the Fitbit App Gallery under the name `Xmas Timer`.
 
