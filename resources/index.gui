@@ -1,0 +1,6 @@
+<svg>
+   <image href="Christmas.jpg" />
+  <text class="NumberofSleeps" id="NumberofSleeps" />
+  <text class="MerryChristmas" id="MerryChristmas" />
+  <text class="SleepsLabel" id="SleepsLabel">Sleeps Until Christmas</text>
+</svg>

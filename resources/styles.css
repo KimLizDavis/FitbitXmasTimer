@@ -1,0 +1,30 @@
+.background {
+  viewport-fill: red;
+}
+text {
+  text-length: 32;
+  text-anchor: middle;
+  fill: white; 
+}
+
+.SleepsLabel {
+  x: 65%;
+  y: 20%;
+  font-size: 20;
+  font-family: System-Bold;
+}
+
+.NumberofSleeps {
+  x: 65%;
+  y: 55%;
+  font-size: 45;
+  font-family: Seville-Bold-Italic;
+}
+
+.MerryChristmas {
+  x: 67%;
+  y: 55%;
+  font-size: 25;
+  font-family: Seville-Bold-Italic;
+}
+
